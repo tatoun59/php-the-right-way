@@ -1,38 +1,40 @@
 # Bienvenue
 
-There's a lot of outdated information on the Web that leads new PHP users astray, propagating bad practices and bad
-code. This must stop. _PHP: The Right Way_ is an easy-to-read, quick reference for PHP best practices, accepted coding
-standards, and links to authoritative tutorials around the Web.
+Aujourd'hui sur le web, il y a beaucoup d'informations obsolètes qui perdent les nouveaux utilisateurs de PHP,
+propageant de mauvaises pratiques et du mauvais code. Cela doit cesser. _PHP: The Right Way_ est facile à lire, se veut
+une référence rapide des meilleures pratiques de PHP et des normes de codage acceptées, et présente des liens vers des
+tutoriels qui font autorité à travers le Web.
 
-## Translations
+## Traductions
 
-_PHP: The Right Way_ is (or soon will be) translated into many different languages:
+_PHP: The Right Way_ est (ou sera prochainement) traduit dans les différentes langues suivantes :
 
-* [English](http://www.phptherightway.com)
-* [Chinese](http://wulijun.github.com/php-the-right-way)
-* [Japanese](http://ja.phptherightway.com)
-* Portuguese (Coming Soon)
-* Russian (Coming Soon)
-* [Spanish](http://es.phptherightway.com)
-* Ukrainian (Coming Soon)
+* [Anglais](http://www.phptherightway.com)
+* [Chinois](http://wulijun.github.com/php-the-right-way)
+* [Japonais](http://ja.phptherightway.com)
+* Portugais (à venir)
+* Russe (à venir)
+* [Espagnol](http://es.phptherightway.com)
+* Ukrainien (à venir)
+* Français (à venir) 
 
-## Disclaimer
+## Avertissement
 
-_There is no canonical way to use PHP_. However, this website is a humble display of best practices,
-available options, and good information. It aims to introduce new PHP developers and to rethink seasoned pros with fresh
-ideas.
+_Il n'ya pas une manière canonique d'utiliser PHP_. Toutefois, ce site présente en toute modestie, les meilleures
+méthodes disponibles et une bonne information sur PHP. Elle vise à initier les nouveaux développeurs PHP et à proposer
+de nouvelles idées aux professionnels expérimentés.
 
-This is a living document and will continue to be updated with more helpful information and examples as they become
-available.
+Ce document est vivant et continuera à être mis à jour avec des informations utiles et des exemples dès qu'ils seront
+disponibles.
 
-## How to Contribute
+## Comment contribuer
 
-Help make this website the best resource for new PHP programmers! [Contribute on GitHub][1]
+Aider à faire de ce site la meilleure ressource pour les nouveaux développeurs PHP ! [Contribute on GitHub][1]
 
-## Spread the Word!
+## Passez le mot !
 
-_PHP: The Right Way_ has web banner images you can use on your website. Show your support, and let new PHP developers
-know where to find good information!
+_PHP: The Right Way_ propose des images bannières que vous pouvez utiliser dans votre site web. Montrez votre soutien
+et faites savoir où les nouveaux développeurs peuvent trouver des bonnes informations !
 
 [See Banner Images][2]
 
