@@ -1,4 +1,4 @@
-# Welcome
+# Bienvenue
 
 There's a lot of outdated information on the Web that leads new PHP users astray, propagating bad practices and bad
 code. This must stop. _PHP: The Right Way_ is an easy-to-read, quick reference for PHP best practices, accepted coding
