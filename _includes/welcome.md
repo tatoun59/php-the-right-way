@@ -20,7 +20,7 @@ _PHP: The Right Way_ est (ou sera prochainement) traduit dans les différentes l
 
 ## Avertissement
 
-_Il n'ya pas une manière canonique d'utiliser PHP_. Toutefois, ce site présente en toute modestie, les meilleures
+_Il n'y a pas une manière canonique d'utiliser PHP_. Toutefois, ce site présente en toute modestie, les meilleures
 méthodes disponibles et une bonne information sur PHP. Elle vise à initier les nouveaux développeurs PHP et à proposer
 de nouvelles idées aux professionnels expérimentés.
 
@@ -29,14 +29,14 @@ disponibles.
 
 ## Comment contribuer
 
-Aider à faire de ce site la meilleure ressource pour les nouveaux développeurs PHP ! [Contribute on GitHub][1]
+Aider à faire de ce site la meilleure ressource pour les nouveaux développeurs PHP ! [Contribuez sur GitHub][1]
 
 ## Passez le mot !
 
 _PHP: The Right Way_ propose des images bannières que vous pouvez utiliser dans votre site web. Montrez votre soutien
 et faites savoir où les nouveaux développeurs peuvent trouver des bonnes informations !
 
-[See Banner Images][2]
+[Voir les images bannières][2]
 
 [1]: https://github.com/codeguy/php-the-right-way/tree/gh-pages
 [2]: /banners.html
