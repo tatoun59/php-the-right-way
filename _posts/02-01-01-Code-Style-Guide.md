@@ -2,7 +2,7 @@
 
 La communauté PHP est vaste et diversifiée, composée de bibliothèques innombrables, de cadres de développement
 (frameworks) et de composants. Il est commun pour les développeurs PHP de choisir plusieurs d'entre eux et de les
-combiner en un seul projet. Il est donc important que le code PHP respecte autant que faire se peut un style de codage
+combiner en un seul projet. Il est donc important que le code PHP respecte autant que faire se peut, un style de codage
 commun pour faciliter le travail des développeurs qui vont combiner et assortir différentes bibliothèques pour leurs
 projets.
 
@@ -23,7 +23,7 @@ conformer à PSR-0, mais pas à PSR-2.
 Vous pouvez utiliser les outils de [phpcs-psr][phpcs-psr] pour [PHP_CodeSniffer][phpcs] afin de vérifier que le code est
 conforme aux recommandations. Vous pouvez également utiliser [PHP Coding Standards Fixer][phpcsfixer] de Fabien Potencier
 pour modifier automatiquement la syntaxe de votre code et donc le rendre conforme à ces normes, vous économisant du temps
-et des efforts à ne pas régler les problèmes à la main.
+et des efforts en ne réglant pas les problèmes à la main.
 
 [fig]: http://www.php-fig.org/
 [psr0]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md
