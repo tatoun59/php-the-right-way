@@ -21,15 +21,6 @@ permettra de simplifier la gestion et la configuration de PHP sur ce serveur. II
 prêt à l'emploi. Il suffit de pointer vers PHP en tant que contrôleur. Pour plus d'informations et des ressources
 supplémentaires, se référer à [l'espace dédié sur iis.net][php-iis] à PHP.
 
-
-Generally running your application on different environment in development and production can lead to strange bugs popping up when you go 
-live. If you are developing on Windows and deploying to Linux (or anything non-Windows) then you should consider using a Virtual Machine. This 
-sounds tricky, but using [Vagrant][vagrant] you can set up simple wrappers, then using [Puppet][puppet] or [Chef][chef] you can provision these boxes and share them with your colleagues to ensure you're all working on the same stack. More on this soon.
-
-En général d'exécuter votre application sur l'environnement différent dans le développement et la production peut conduire à des bugs étranges surgissent quand vous allez
-vivre. Si vous développez sur Windows et le déploiement de Linux (ou n'importe quoi non-Windows), alors vous devriez envisager d'utiliser une machine virtuelle. cette
-sonne délicate, mais en utilisant [Vagrant] [vagabond], vous pouvez mettre en place des wrappers simples, puis en utilisant [marionnettes] [marionnettes] ou [chef] [chef] vous pouvez fournir ces boîtes et de les partager avec vos collègues pour vous assurer que vous êtes tous travail sur la même pile. Plus à ce sujet bientôt.
-
 En général, exécuter une application dans des environnements différents en développement et en production peut conduire
 à des bugs étranges lors de son utilisation. Si vous développez sur Windows et déployez sur Linux (ou tout système autre
 que Windows), vous devriez envisager d'utiliser une machine virtuelle. Cela peut sembler un peu compliqué, mais en
