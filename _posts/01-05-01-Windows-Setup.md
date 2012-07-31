@@ -5,7 +5,7 @@ isChild: true
 ## Configuration Windows
 
 PHP est disponible de différentes manières sous Windows. Vous pouvez [télécharger les binaires](php-downloads) et
-jusqu'à récemment, vous pouviez utiliser un fichier d'installation .msi. Le programme d'installation n'est plus supporté
+jusqu'à récemment, vous pouviez utiliser un fichier d'installation .msi. Ce programme d'installation n'est plus supporté
 et s'arrête à PHP 5.3.0.
 
 Pour l'apprentissage et le développement local, vous pouvez utiliser le serveur web intégré à PHP 5.4 sans vous soucier
