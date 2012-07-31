@@ -21,13 +21,13 @@ exceptions et plus encore.
 
 PHP a la possibilité de déclarer des fonctions de première classe, ce qui signifie qu'une fonction peut être affectée
 à une variable. Les fonctions définies par l'utilisateur comme celles propres au langage, peuvent être référencées
-par une variable et invoquées dynamiquement. Les fonctions peuvent être passés comme arguments à d'autres fonctions
+par une variable et invoquées dynamiquement. Les fonctions peuvent être passées comme arguments à d'autres fonctions
 (fonction appelée fonctions d'ordre supérieur) et une fonction peut retourner d'autres fonctions.
 
-La récursivité qui est la possiblité donnée à une fonction de s'appeler elle-même, est supportée par le langage. 
+La récursivité, qui est la possiblité donnée à une fonction de s'appeler elle-même, est supportée par le langage. 
 Toutefois, le code PHP est plus axé sur l'itération.
 
-Les fonctions anonymes (avec support des closures) sont présents depuis PHP 5.3 (2009).
+Les fonctions anonymes (avec le support des closures) sont présents depuis PHP 5.3 (2009).
 
 PHP 5.4 ajoute la capacité de lier des closures à la portée d'un objet et l'amélioration du support des fonctions de
 type appelables de telle sorte qu'elles peuvent être utilisées de façon interchangeable avec des fonctions anonymes
@@ -48,7 +48,7 @@ Méthodes magiques. Il existe de nombreuses méthodes magiques comme `__get()`, 
 les développeurs Ruby disent que PHP n'a pas de fonctions `method_missing`, cependant ces aspects sont disponibles dans
  `__call()` et `__callStatic()`.
 
-* [A lire au sujet des MéthodesMagiques][magic-methods]
+* [A lire au sujet des Méthodes Magiques][magic-methods]
 * [A lire au sujet de Reflection][reflection]
 
 [namespaces]: http://php.net/manual/fr/language.namespaces.php
