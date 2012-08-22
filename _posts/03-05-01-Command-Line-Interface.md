@@ -3,7 +3,7 @@ isChild: true
 ---
 
 ## L'interface de la ligne de commande
-
+ 
 PHP a été créé principalement pour développer des applications Web, mais il est également très utile pour la mise en œuvre de programmes qui s'exécutent sur l'interface de ligne de commande (CLI). Les programmes en ligne de commande de PHP peuvent vous aider à automatiser les tâches courantes telles que les essais, le déploiement et la gestion d'applications.
 
 Les programmes PHP CLI sont très puissants parce que le code de l'application peut être utilisé directement sans avoir à créer et sécuriser une interface web. Pour cette raison, il ne faut  pas déposer des programmes CLI à la racine publique de son site web !
