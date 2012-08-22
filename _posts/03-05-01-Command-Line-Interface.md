@@ -6,8 +6,6 @@ isChild: true
 
 PHP a été créé principalement pour développer des applications Web, mais il est également très utile pour la mise en œuvre de programmes qui s'exécutent sur l'interface de ligne de commande (CLI). Les programmes en ligne de commande de PHP peuvent vous aider à automatiser les tâches courantes telles que les essais, le déploiement et la gestion d'applications.
 
-CLI PHP programs are powerful because you can use your app's code directly without having to create and secure a web GUI for it. Just be sure not to put your CLI PHP scripts in your public web root!
-
 Les programmes PHP CLI sont très puissants parce que le code de l'application peut être utilisé directement sans avoir à créer et sécuriser une interface web. Pour cette raison, il ne faut  pas déposer des programmes CLI à la racine publique de son site web !
 
 Essayez de lancer l'instruction PHP suivante en ligne de commande :
@@ -18,7 +16,6 @@ Essayez de lancer l'instruction PHP suivante en ligne de commande :
 
 L'option `-i` affichera votre configuration PHP à l'identique de la fonction [`phpinfo`][phpinfo].
 
-The `-a` option provides an interactive shell, similar to ruby's IRB or python's interactive shell. There are a number of other useful [command line options][cli-options], too.
 L'option `-a` appelle une console interactive similaire à l'IRS de Ruby ou la console de Python. Il existe plusieurs [options de ligne de commande][cli-options] qui sont très utiles. 
 
 Nous allons écrire un programme simple qui affiche "Bonjour, $name" à la ligne de commande. 
@@ -34,7 +31,7 @@ $name = $argv[1];
 echo "Hello, $name\n";
 {% endhighlight %}
 
-PHP définit deux variables spéciales basées sur les arguments reçus par votre script lors de son exécution. [`$argc`][argc] est une variable de type entier contenant le *nombre d'arguments* et [`$argv`][argv] est une variable de type tableau contenant la *valeur* de chaque argument. Le premier argument est toujours le nom de votre fichier de script PHP, soit `hello.php` dans ce cas.
+PHP définit deux variables spéciales basées sur les arguments reçus par votre script lors de son exécution. [`$argc`][argc] est une variable de type entier contenant le *nombre d'arguments* et [`$argv`][argv] est une variable de type tableau contenant la *valeur* de chaque argument. Le premier argument est toujours le nom de votre fichier de script PHP, soit `hello.php` dans notre cas.
 
 La expression `exit()` peut être utilisée avec un nombre différent de zéro pour vous faire savoir que la console de commande a échoué. Vous trouverez [ici][exit-codes], les codes de sortie les plus couramment utilisés.
 
